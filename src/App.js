@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Video from "./Video";
 import db from "./firebase";
 import "./App.css";
+import MyIntro from "./MyIntro";
 
 function App() {
   const [videos, setVideos] = useState([]);
@@ -16,6 +17,7 @@ function App() {
     // BEM
     <div className="app">
       <div className="app__videos">
+       
         {videos.map(
           ({ url, channel, description, song, likes, messages, shares }) => (
             <Video
@@ -29,6 +31,7 @@ function App() {
             />
           )
         )}
+         <MyIntro/>
       </div>
     </div>
   );

@@ -1,5 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hello I am Akarsh Barar
+This is a project on tiktok clone, It is just the UI/ Home Screen clone of app with snap feature.
+Technology used are <b>ReactJs</b> and <b> firebase dabase and hosting</b>.
+
+Link of the site is 
 https://tiktok-359d9.web.app/
+
+The app will be updated and will try to make it exact same as tiktok.
+
+
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +78,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Inspiration
+Clever Programmer youtube Channel
